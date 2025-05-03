@@ -2,7 +2,7 @@
 
 # Neverdies Oldbase
 
-**Now free and open sourced for everyone!**
+**Now free and open source for everyone!**
 
 Keep in mind:
 
