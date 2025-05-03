@@ -1,0 +1,42 @@
+{
+  "skeet": {
+    "sounds": [
+      "neverdies:neverdies"
+    ]
+  },
+  "nl": {
+    "sounds": [
+      "neverdies:nl"
+    ]
+  },
+  "primordial": {
+    "sounds": [
+      "neverdies:primordial"
+    ]
+  },
+  "enable": {
+    "sounds": [
+      "neverdies:enable"
+    ]
+  },
+  "disable": {
+    "sounds": [
+      "neverdies:disable"
+    ]
+  },
+  "open": {
+    "sounds": [
+      "neverdies:open"
+    ]
+  },
+  "scroll": {
+    "sounds": [
+      "neverdies:scroll"
+    ]
+  },
+  "firstopen": {
+    "sounds" : [
+      "neverdies:firstopen"
+    ]
+  }
+}
