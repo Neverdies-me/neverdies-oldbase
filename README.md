@@ -3,6 +3,7 @@
 # Neverdies Oldbase
 
 **Now free and open source for everyone!**
+It's originally based on an old version of Shoreline.
 
 Keep in mind:
 
