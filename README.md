@@ -13,3 +13,7 @@ Keep in mind:
 - There won't be any future support for it
 - It was **NOT** made by the current dev team
 - It is **NOT** related to the newer upcoming versions of Neverdies in any way.
+
+  **Info**
+- Default GUI bind is RightShift/RSHIFT
+- Default prefix is . (dot)
