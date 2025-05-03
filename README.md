@@ -1,4 +1,4 @@
-![Neverdies Logo](https://neverdies.me/assets/img/logo.png)
+<img src="https://neverdies.me/assets/img/logo.png" alt="Neverdies Logo" width="150" height="150">
 
 # Neverdies Oldbase
 
